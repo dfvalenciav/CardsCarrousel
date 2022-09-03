@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="secundario_06_bg_gray">#f5f7f7</color>
+    <color name="Primario_01_SMM_Purple">#706196</color>
+    <color name="Primari_06_light_purple">#f0eff7</color>
+    <color name="Primario_07_very_light_purple">#f4f3f7</color>
+    <color name="Primatio_01_card_design">#bbb5c9</color>
+
+    <!--- Colors dialogs-->
+
+    <color name="colorPrimary">#706196</color>
+    <color name="dark_grey">#4a4a4a</color>
+    <color name="light_orange">#fff5e9</color>
+    <color name="orange">#ffa02b</color>
+    <color name="light_green">#D9F2E4</color>
+    <color name="green">#00A749</color>
+    <color name="light_purple">#f0eff7</color>
+    <color name="purple">#9488b5</color>
+
+
+    <!-- Colors Cards-->
+    <color name="card_color_type1">#FFBB86FC</color>
+    <color name="card_color_type2">#FF3700B3</color>
+    <color name="card_color_type3">#000000</color>
+    <color name="card_color_type4">#FF018786</color>
+    <color name="card_color_type5">#e8c227</color>
+    <color name="card_color_type6">#000C66</color>
+    <color name="card_color_type7">#EADDCA</color>
+    <color name="card_color_type8">#01579b</color>
+</resources>
