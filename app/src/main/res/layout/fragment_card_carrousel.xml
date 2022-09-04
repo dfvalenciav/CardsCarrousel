@@ -33,6 +33,16 @@
         android:textSize="20dp"
         android:textColor="@color/white"/>
 
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="24dp"
+        android:src="@drawable/ic_baseline_settings_24"
+        app:layout_constraintEnd_toStartOf="@+id/guidelineEnd"
+        app:layout_constraintTop_toTopOf="parent"
+        app:tint="@color/white"
+        android:background="@drawable/layout_rounded_button_shape"/>
+
     <androidx.constraintlayout.motion.widget.MotionLayout
         android:id="@+id/motionLayout"
         android:layout_width="match_parent"
@@ -41,7 +51,7 @@
         android:layout_marginTop="@dimen/margin_top_carrousel"
         android:layout_marginEnd="8dp"
         app:motionDebug="SHOW_PATH"
-        android:visibility="visible"
+        android:visibility="invisible"
         app:layoutDescription="@xml/fragment_card_carrousel_scene"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -503,4 +513,15 @@
             app:carousel_touchUp_dampeningFactor="0.8"
             app:constraint_referenced_ids="itemZero, itemOne, itemTwo, itemThree, itemFour" />
     </androidx.constraintlayout.motion.widget.MotionLayout>
+
+    <ProgressBar
+        android:id="@+id/progressBarCarrouselCards"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="@+id/motionLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/motionLayout" />
 </androidx.constraintlayout.widget.ConstraintLayout>

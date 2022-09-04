@@ -3,12 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/x5776dv/Documents/Proyectos/Android/CardsCarrousel/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1" />
         <entry key="..\:/Users/x5776dv/Documents/Proyectos/Android/CardsCarrousel/app/src/main/res/drawable/ic_contactless_white.xml" value="0.152" />
         <entry key="..\:/Users/x5776dv/Documents/Proyectos/Android/CardsCarrousel/app/src/main/res/drawable/ic_favicon_copy_4_white.xml" value="0.1" />
         <entry key="..\:/Users/x5776dv/Documents/Proyectos/Android/CardsCarrousel/app/src/main/res/drawable/ic_mastercard_vector.xml" value="0.1" />
+        <entry key="..\:/Users/x5776dv/Documents/Proyectos/Android/CardsCarrousel/app/src/main/res/drawable/ic_sim_card_icon.xml" value="0.1835" />
         <entry key="..\:/Users/x5776dv/Documents/Proyectos/Android/CardsCarrousel/app/src/main/res/drawable/ic_visa_vector.xml" value="0.1" />
+        <entry key="..\:/Users/x5776dv/Documents/Proyectos/Android/CardsCarrousel/app/src/main/res/drawable/layout_rounded_button_shape.xml" value="0.1835" />
         <entry key="..\:/Users/x5776dv/Documents/Proyectos/Android/CardsCarrousel/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/Users/x5776dv/Documents/Proyectos/Android/CardsCarrousel/app/src/main/res/layout/fragment_card_carrousel.xml" value="0.1" />
+        <entry key="..\:/Users/x5776dv/Documents/Proyectos/Android/CardsCarrousel/app/src/main/res/layout/fragment_card_carrousel.xml" value="0.264" />
       </map>
     </option>
   </component>
