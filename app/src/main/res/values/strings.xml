@@ -2,4 +2,5 @@
     <string name="app_name">CardsCarrousel</string>
     <string name="tarjetas">Tarjetas!</string>
     <string name="mastercard_logo">mastercard_logo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
