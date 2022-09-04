@@ -1,7 +1,7 @@
 package com.example.cardscarrousel.cardCarrousel.data.local
 
 import com.example.cardscarrousel.R
-import com.example.cardscarrousel.cardCarrousel.domain.CardCarrousel
+import com.example.cardscarrousel.cardCarrousel.domain.models.CardCarrousel
 
 class MockDataBaseCards {
 

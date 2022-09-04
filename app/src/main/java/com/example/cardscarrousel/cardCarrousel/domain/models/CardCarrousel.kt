@@ -1,4 +1,4 @@
-package com.example.cardscarrousel.cardCarrousel.domain
+package com.example.cardscarrousel.cardCarrousel.domain.models
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
